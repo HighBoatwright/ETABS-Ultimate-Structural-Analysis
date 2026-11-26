@@ -1,0 +1,23 @@
+{
+  "repo": "etabs-ultimate-structural-analysis",
+  "product": "ETABS Ultimate Structural Analysis",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "etabs-ultimate-structural-analysis",
+    "etabs-structural",
+    "etabs-structural-analysis",
+    "how-to-install-etabs-structural",
+    "how-to-setup-etabs-structural",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "etabs-analysis"
+  ],
+  "site": "unaflore.co",
+  "product_title": "ETABS Ultimate Structural Analysis"
+}
